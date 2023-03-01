@@ -1,0 +1,13 @@
+C:\Users\rapha\Desktop\Assigment3Games\MOliveiraQGame\bin\Debug\MOliveiraQGame.exe.config
+C:\Users\rapha\Desktop\Assigment3Games\MOliveiraQGame\bin\Debug\MOliveiraQGame.exe
+C:\Users\rapha\Desktop\Assigment3Games\MOliveiraQGame\bin\Debug\MOliveiraQGame.pdb
+C:\Users\rapha\Desktop\Assigment3Games\MOliveiraQGame\obj\Debug\MOliveiraQGame.csproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\Assigment3Games\MOliveiraQGame\obj\Debug\MOliveiraQGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\rapha\Desktop\Assigment3Games\MOliveiraQGame\obj\Debug\MOliveiraQGame.Form1.resources
+C:\Users\rapha\Desktop\Assigment3Games\MOliveiraQGame\obj\Debug\MOliveiraQGame.Form2.resources
+C:\Users\rapha\Desktop\Assigment3Games\MOliveiraQGame\obj\Debug\MOliveiraQGame.Properties.Resources.resources
+C:\Users\rapha\Desktop\Assigment3Games\MOliveiraQGame\obj\Debug\MOliveiraQGame.csproj.GenerateResource.cache
+C:\Users\rapha\Desktop\Assigment3Games\MOliveiraQGame\obj\Debug\MOliveiraQGame.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\Assigment3Games\MOliveiraQGame\obj\Debug\MOliveiraQGame.exe
+C:\Users\rapha\Desktop\Assigment3Games\MOliveiraQGame\obj\Debug\MOliveiraQGame.pdb
+C:\Users\rapha\Desktop\Assigment3Games\MOliveiraQGame\obj\Debug\MOliveiraQGame.Form3.resources
